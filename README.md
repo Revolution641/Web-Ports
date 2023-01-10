@@ -5,3 +5,9 @@ Pac-MAN: Google.com  Search "Pac-Man 30th Anniversary" in google and you'll get 
 
 https://nicerwritter27.github.io/web-pacman/ Another Pac-Man port/remake, this is the standard game.
 
+Minecraft JS: https://github.com/LabyStudio/js-minecraft A port of Minecraft's engine. Offers basic functnality.
+
+minecraft.js.org An alternative to the one above, this automatically connects you to a Minecraft server. You'll need to set up an password to play.
+
+
+
